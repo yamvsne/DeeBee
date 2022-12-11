@@ -1,10 +1,8 @@
 # でーびー
 
-<div align="center">
 <img src="https://raw.githubusercontent.com/yamvsne/DeeBee/images/images/DeeBee_Logo.png" alt="ロゴ" width="300"/>
 <img src="https://raw.githubusercontent.com/yamvsne/DeeBee/images/images/detail1-6.5.png" alt="ロゴ" height="300"/>
 <img src="https://raw.githubusercontent.com/yamvsne/DeeBee/images/images/detail1-6.5.en.png" alt="ロゴ" height="300"/>
-</div>
 
  "でーびー" とは、個人用のデータベース/メモアプリです。
 
