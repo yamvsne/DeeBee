@@ -29,8 +29,6 @@
 <img src="https://raw.githubusercontent.com/yamvsne/DeeBee/images/images/editSchema2-6.5.png" alt="ロゴ" width="200"/>
 <br />
 「書式設定」で入力項目を設定しました！<br />
-今回は、
-
 - 日付を入力する「日付」欄と、
 - 文章を入力する「よかったこと」「よくなかったこと」「明日の目標」欄と、
 - チェックリストである「寝る前のチェック」という欄を作成しました。<br />
