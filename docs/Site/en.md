@@ -1,5 +1,5 @@
 ---
-title: でーびー
+title: DeeBee
 ---
 
 {: align="center"}
